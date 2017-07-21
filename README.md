@@ -7,21 +7,21 @@ Overview
 
 1. Languages 
 - HTML
-		- Responsive Design
-		- Optimization
+	- Responsive Design
+	- Optimization
 - CSS
 - Javascript
-		- OOP
+	- OOP
 2. Development Tools
 - Frameworks
-		- MVC
-		- Kockout
+	- MVC
+	- Kockout
 - Libraries
-		- jQuery
-		- Bootstrap
+	- jQuery
+	- Bootstrap
 - Other
-		- Jasmine
-		- Git
-		- Grunt
-		- API
+	- Jasmine
+	- Git
+	- Grunt
+	- API
 
