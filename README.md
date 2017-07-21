@@ -6,20 +6,20 @@ Overview
 -------------
 
 1. Languages 
-- HTML
+	- HTML
 		- Responsive Design
 		- Optimization
-- CSS
-- Javascript
+	- CSS
+	- Javascript
 		- OOP
 2. Development Tools
-- Frameworks
+	- Frameworks
 		- MVC
 		- Kockout
-- Libraries
+	- Libraries
 		- jQuery
 		- Bootstrap
-- Other
+	- Other
 		- Jasmine
 		- Git
 		- Grunt
