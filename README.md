@@ -2,14 +2,15 @@ Learning Frontend Development Notes
 ===================
 Based on Udacity's Frontend Nanodegree and other resources from the Web.
 
-Overview 
+Overview
 -------------
 
-1. Languages 
+1. Languages
 	- HTML
 		- Responsive Design
 		- Optimization
 	- CSS
+		- SASS
 	- Javascript
 		- OOP
 2. Development Tools
@@ -20,8 +21,9 @@ Overview
 		- jQuery
 		- Bootstrap
 	- Other
-		- Jasmine
+		- TDD + Jasmine
 		- Git
 		- Grunt
 		- API
+		- Text Editor
 

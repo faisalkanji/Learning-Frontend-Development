@@ -21,3 +21,4 @@ To push changes to Github:
 
 [More Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
 [Commit message style guide](http://udacity.github.io/git-styleguide/)
+[Writing in Markdown](https://guides.github.com/features/mastering-markdown/)
