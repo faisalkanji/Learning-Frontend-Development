@@ -19,6 +19,28 @@ To push changes to Github:
 1. Push changes to Github repo
 `git push -u origin master`
 
+## Making Contributions
+
+1. Fork repo to create copy in my account
+1. Clone the repo
+`git clone.....`
+1. Create branch
+`git checkout -b <name-of-branch>`
+1. Make changes -> add and commit changes
+1. Push changes
+`git push origin <name-of-branch>
+1. Goto repo and create pull request
+
+## Keep fork synced
+1. Connect master branch to fork
+`git remote add upstream <URL>`
+1. Fetch changes to master branch
+`git fetch upstram`
+1. Merge changes from master branch
+`git rebase upstream/master`
+
 [More Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
 [Commit message style guide](http://udacity.github.io/git-styleguide/)
 [Writing in Markdown](https://guides.github.com/features/mastering-markdown/)
+[First Contributions](https://github.com/Roshanjossey/first-contributions)
+[Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
