@@ -36,8 +36,10 @@ To push changes to Github:
 `git remote add upstream <URL>`
 1. Fetch changes to master branch
 `git fetch upstram`
-1. Merge changes from master branch
+1. Merge changes from master branch locally
 `git rebase upstream/master`
+1. Push changes
+`git push origin master`
 
 [More Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
 [Commit message style guide](http://udacity.github.io/git-styleguide/)
